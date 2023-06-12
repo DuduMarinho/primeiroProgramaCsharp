@@ -1,0 +1,15 @@
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/bin/Debug/net7.0/jogoAdivinhacao
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/bin/Debug/net7.0/jogoAdivinhacao.deps.json
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/bin/Debug/net7.0/jogoAdivinhacao.runtimeconfig.json
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/bin/Debug/net7.0/jogoAdivinhacao.dll
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/bin/Debug/net7.0/jogoAdivinhacao.pdb
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.csproj.AssemblyReference.cache
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.AssemblyInfoInputs.cache
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.AssemblyInfo.cs
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.csproj.CoreCompileInputs.cache
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.dll
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/refint/jogoAdivinhacao.dll
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.pdb
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/jogoAdivinhacao.genruntimeconfig.cache
+/Users/andersonbarros/Projects/jogoAdivinhacao/jogoAdivinhacao/obj/Debug/net7.0/ref/jogoAdivinhacao.dll
